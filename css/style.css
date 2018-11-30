@@ -1,0 +1,111 @@
+/* zet interface mooi in het midden door middel van overschrijven bootstrap wrapper. */
+.wrapper {
+width: 750px;
+    margin: 0 auto;
+}
+.blogbutton {
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+/* header font aanpassen */
+.page-header h2 {
+  margin-top: 0;
+}
+h1,h2,h3 {
+    font-family: Bitter;
+}
+/* TODO opschonen css
+/* overriden van meer bootstrap margins. */
+table tr td:last-child a {
+  margin-right: 15px;
+}
+.rec {
+  margin-top: 5px;
+}
+.error_box {
+  color: #FF7400;
+}
+._error_text {
+  color: #FF7400;
+  font-size: 24px;
+}
+.blogpicture {
+  margin-top:15px;
+  border: 1px rgb(136, 136, 136) solid;
+}
+.welkomscherm {
+  text-align: center;
+}
+/* Animatie scherm */
+.animation {
+  width : 200px;
+  height: 200px;
+  border: 1px solid #000;
+  background-image: url('../images/BlogScrabbleAchtergrond.jpg');
+  background-size: 200px 200px;
+  position: relative;
+}
+.achar {
+  font-family: 'NewsGothicStd';
+  font-size: 80px;
+}
+.asubchar {
+  font-size: 17px;
+  position: absolute;
+  top: 68px;
+  left: 48px;
+}
+#achar1 {
+  transform: rotate(23deg);
+  position: absolute;
+  top: 35px;
+  left: 7px;
+}
+#achar2 {
+  transform: rotate(16deg);
+  position: absolute;
+  top: 42px;
+  left: 88px;
+}
+#achar3 {
+  transform: rotate(16deg);
+  position: absolute;
+  top: 54px;
+  left: 162px;
+}
+#achar4 {
+  transform: rotate(18deg);
+  position: absolute;
+  top: 27px;
+  left: 247px;
+}
+#achar5 {
+  transform: rotate(21deg);
+  position: absolute;
+  top: 7px;
+  left: 336px;
+}
+#achar6 {
+  transform: rotate(17deg);
+  position: absolute;
+  top: 136px;
+  left: 19px;
+}
+#achar7 {
+  transform: rotate(-11deg);
+  position: absolute;
+  top: 145px;
+  left: 124px;
+}
+#achar8 {
+  transform: rotate(10deg);
+  position: absolute;
+  top: 144px;
+  left: 224px;
+}
+#achar9 {
+  transform: rotate(-12deg);
+  position: absolute;
+  top: 153px;
+  left: 318px;
+}

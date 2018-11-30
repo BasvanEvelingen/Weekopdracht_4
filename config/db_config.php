@@ -15,7 +15,7 @@ $connection = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 
 // Connectie controleren
 if($connection === false) {
-    die("ERROR: Kon geen verbinding maken. " . $mysqli->connect_error);
+    die("ERROR: Kon geen verbinding maken. " . $connection->connect_error);
 }
 //echo "Connectie succesvol: ";
 ?>

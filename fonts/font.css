@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NewsGothicStd';
+  src: url('NewsGothicStd.eot');
+  src: url('NewsGothicStd.woff2') format('woff2'),
+       url('NewsGothicStd.woff') format('woff'),
+       url('NewsGothicStd.ttf') format('truetype'),
+       url('NewsGothicStd.svg#NewsGothicStd') format('svg'),
+       url('NewsGothicStd.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

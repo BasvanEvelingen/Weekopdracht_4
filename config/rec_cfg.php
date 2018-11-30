@@ -4,9 +4,9 @@ return [
 
   'v2-standard' => [
 
-    'site' => '6Lcp63oUAAAAADUVljUf4VaAMAw3uK4UQuLvlCeu',
+    'site' => '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',
 
-    'secret' => '6Lcp63oUAAAAAG6Z9k0Kb1ZKtxiJQegkVAtJgqUF'
+    'secret' => '6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe'
 
   ]
 ];
