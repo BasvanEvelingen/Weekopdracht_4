@@ -9,4 +9,6 @@ Codegorilla Bootcamp opdracht van week
 | W4-04         | ja                                                             | 
 | W4-05         | ja                              |                              |
 | W4-06         | half, moet het uploaden naar server script nog testen          | 
-|--------------------------------------------------------------------------------|
+
+
+In cmd screenshots , screendumps van mysql commandline commandos
