@@ -52,7 +52,7 @@ if (isset($_POST["naam"]) && !empty($_POST["naam"])) {
                 <div class="row">
                     <div class="col-md-12">
                         <div class="page-header">
-                            <h1>Verwijder Bericht</h1>
+                            <h1>Nieuwe Categorie</h1>
                         </div>
                         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST">
                             <div class="form-group">
